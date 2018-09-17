@@ -1,0 +1,8 @@
+title: Automatically Generated!
+description: github pages
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
